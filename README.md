@@ -22,8 +22,8 @@ the code given in this repository of Python For XOR linked List is not running y
 # Instruction:
 The user should copy the code in the compilers with respect to thier Programming Languages and run the code by adding values in it 
 
-1)for C++ Code Direct Execution Click this Link : https://onlinegdb.com/rkHk0Hs-I
-2)for C Code Direct Execution Click this Link : https://onlinegdb.com/Skd818iWU
+1) for C++ Code Direct Execution Click this Link : https://onlinegdb.com/rkHk0Hs-I
+2) for C Code Direct Execution Click this Link : https://onlinegdb.com/Skd818iWU
 
 # Project Members :
 1) Abdul Rafay
