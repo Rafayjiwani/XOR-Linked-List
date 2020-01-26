@@ -13,9 +13,14 @@ In addition to the memory savings, you get advantages in locality because all 16
 
 Note that an XOR-linked list also requires you to allocate or free memory each time you add or delete a node, and that is an expensive operation. With the array-linked list, you can do better than this by allowing nodes to be less than completely full. If you allow 5 empty item slots, for example, then you only have allocate or free memory on every 3rd insert or delete at worst.
 
+the code given in this reposetry 
+
 # Functions:
 1) insert or add
 2) print or get
+
+# Instruction:
+The user should copy the code in the compilers with respect to thier Programming Languages and run the code by adding values in it 
 
 # Project Members :
 1) Abdul Rafay
