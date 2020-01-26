@@ -17,7 +17,7 @@ Note that an XOR-linked list also requires you to allocate or free memory each t
 1) insert or add
 2) print or get
 
-# Code By :
+# Project Members :
 1) Abdul Rafay
 2) Mustafa Shahid
 3) Sikander Shakeel
